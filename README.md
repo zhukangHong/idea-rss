@@ -1,25 +1,21 @@
-# IntelliJNews
+# IntelliJTaoGuBa
 
-![Build](https://github.com/mikh-rich-is-team/IntelliJNews/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/17293-intellijnews.svg)](https://plugins.jetbrains.com/plugin/17293-intellijnews)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/17293-intellijnews.svg)](https://plugins.jetbrains.com/plugin/17293-intellijnews)
+# ![Build](https://github.com/mikh-rich-is-team/IntelliJNews/workflows/Build/badge.svg)
+# [![Version](https://img.shields.io/jetbrains/plugin/v/17293-intellijnews.svg)](https://plugins.jetbrains.com/plugin/17293-intellijnews)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/17293-intellijnews.svg)](https://github.com/zhukangHong/idea-rss/releases)
 
-## Template ToDo list
-- [x] Create a new [IntelliJ Platform Plugin Template][template] project.
-- [ ] Verify the [pluginGroup](/gradle.properties), [plugin ID](/src/main/resources/META-INF/plugin.xml) and [sources package](/src/main/kotlin).
-- [ ] Review the [Legal Agreements](https://plugins.jetbrains.com/docs/marketplace/legal-agreements.html).
-- [ ] [Publish a plugin manually](https://plugins.jetbrains.com/docs/intellij/publishing-plugin.html?from=IJPluginTemplate) for the first time.
-- [ ] Set the Plugin ID in the above README badges.
-- [ ] Set the [Deployment Token](https://plugins.jetbrains.com/docs/marketplace/plugin-upload.html).
-- [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
+## 待完成
+- [x] 空格老板键
+- [x] 文字背景透明
+- [ ] 单次只看一篇
 
 <!-- Plugin description -->
 IDE-News is a great plugin that allows you to subscribe to different RSS channels and read news not leaving the IDE.
 <!-- Plugin description end -->
 
-## Installation
+## 安装
 
-- Using IDE built-in plugin system:
+- ~~Using IDE built-in plugin system:
   
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "IntelliJNews"</kbd> >
   <kbd>Install Plugin</kbd>
