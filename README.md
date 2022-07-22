@@ -20,12 +20,13 @@
 
 具体是 panel内只显示一个feed，然后通过监听按键来切换到下一篇
 
- 原项目写得太抽象，改不动（我太菜了）
+原项目写得太抽象，改不动（我太菜了）
  
- 原项目应该是外国人写的而且好久没更新了，默认的自带源在国内是读不出的
+原项目应该是外国人写的而且好久没更新了，默认的自带源在国内是读不出的
  
- fork from [IDE-News](https://github.com/mikhirurg/IDE-News) 
+fork from [IDE-News](https://github.com/mikhirurg/IDE-News) 
 
+PS:用惯maven，用gradle各种水土不服
 
 ## 使用说明
 1. channels填写rss源，点击Feed选项页
