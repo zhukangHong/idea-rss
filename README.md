@@ -20,7 +20,7 @@
 
 具体是 panel内只显示一个feed，然后通过监听按键来切换到下一篇
 
-原项目写得太死，改不动（我太菜了）
+ 原项目写得太抽象，改不动（我太菜了）
 
 
 ## 使用说明
@@ -32,6 +32,17 @@
 - [x] 空格老板键
 - [x] 文字背景透明
 - [ ] 单次只看一篇
+
+## 截图
+显示状态
+
+![img.png](img.png)
+
+隐藏状态
+
+![img_1.png](img_1.png)
+
+
 
 <!-- Plugin description -->
 IDE-News is a great plugin that allows you to subscribe to different RSS channels and read news not leaving the IDE.
