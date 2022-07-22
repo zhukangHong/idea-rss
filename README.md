@@ -21,6 +21,10 @@
 具体是 panel内只显示一个feed，然后通过监听按键来切换到下一篇
 
  原项目写得太抽象，改不动（我太菜了）
+ 
+ 原项目应该是外国人写的而且好久没更新了，默认的自带源在国内是读不出的
+ 
+ fork from [IDE-News](https://github.com/mikhirurg/IDE-News) 
 
 
 ## 使用说明
@@ -72,5 +76,7 @@ IDE-News is a great plugin that allows you to subscribe to different RSS channel
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
+
+
 
 [template]: https://github.com/JetBrains/intellij-platform-plugin-template
