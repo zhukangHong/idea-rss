@@ -42,6 +42,13 @@
 
 ![img_1.png](img_1.png)
 
+## 爬取源说明
+python脚本，需要python3.x以上。用到requests，bs4，json，PyRSS2Gen库
+目前写得比较死，固定生成在/home/rss/rss.xml路径，大佬们可以修改成动态配置
+业余python选手，不太会写
+本来想写成web项目然后用定时器去爬取，后面搭建django写demo问题多多~太菜了，放弃了
+然后不如用linux的定时器去启动脚本算了
+有兴趣的大牛可以尝试下~然后把源分享出来~感激不尽~
 
 
 <!-- Plugin description -->
