@@ -73,6 +73,12 @@ public class AbstractFeed extends JPanel {
         content.setShowGrid(false);
 
         JScrollPane scrollPane = new JBScrollPane(content);
+        JButton up = new JButton(".");
+        up.addActionListener(e -> {
+            JScrollBar bar=scrollPane.getVerticalScrollBar();
+            bar.setValue(bar.getValue()+20);
+        });
+        scrollPane.setCorner(ScrollPaneConstants.UPPER_RIGHT_CORNER,up);
         add(scrollPane, BorderLayout.CENTER);
     }
 
