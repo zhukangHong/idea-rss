@@ -47,6 +47,14 @@ PS:用惯maven，用gradle各种水土不服
 
 ![img_1.png](img_1.png)
 
+## Change Log
+
+**v1.01**
+增加滚动条上方的按钮，点击一次下拉一行，配合下方拉大控制台，可以超级隐秘
+
+![img_2.png](img_2.png)
+
+
 ## 爬取源说明
 python脚本，需要python3.x以上。用到requests，bs4，json，PyRSS2Gen库
 
